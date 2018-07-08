@@ -1,0 +1,25 @@
+-------------------- NEW CALCULATION --------------------
+Starting
+Fre Jun 29 07:06:13 CEST 2018
+----------
+raw-to-tcp.py:
+----------
+parse-tcp.py:
+----------
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1,9G     0  1,9G   0% /dev
+tmpfs           382M   11M  371M   3% /run
+/dev/sda1       143G   21G  115G  16% /
+tmpfs           1,9G  248K  1,9G   1% /dev/shm
+tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+tmpfs           1,9G     0  1,9G   0% /sys/fs/cgroup
+tmpfs           382M   56K  382M   1% /run/user/1000
+----------
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1,9G     0  1,9G   0% /dev
+tmpfs           382M   11M  371M   3% /run
+/dev/sda1       143G   21G  115G  16% /
+tmpfs           1,9G  248K  1,9G   1% /dev/shm
+tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+tmpfs           1,9G     0  1,9G   0% /sys/fs/cgroup
+tmpfs           382M   56K  382M   1% /run/user/1000

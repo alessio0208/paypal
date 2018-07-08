@@ -1,0 +1,10 @@
+Last finished URL before crash:
+https://www.paypal.com/lu/merchantsignup/applicationChecklist?signupType=CREATE_NEW_ACCOUNT&productIntentId=wp_standard&locale.x=en_LU 1529397694396 1529397706693
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.paypal.com/lu/webapps/mpp/ua/useragreement-full#015
+https://www.paypal.com/lu/webapps/mpp/requesting-payments
+https://www.paypal.com/lu/webapps/mpp/jobs/people/supreet-n
+https://www.paypal.com/lu/webapps/mpp/paypal-fees
+https://www.paypal.com/lu/webapps/mpp/full-sitemap
+-----------------------------------
